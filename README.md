@@ -1,12 +1,3 @@
-Perfect — this is exactly the **right instinct** if you want professors, reviewers, and serious engineers to *stop dismissing it as “just Three.js”*.
-
-Below is a **GitHub-ready, cleanly formatted HCI-positioned README rewrite**.
-It **reframes the project as a Human–Computer Interaction (HCI) system**, with **clear research framing**, **bold titles**, **structured subsections**, and **intentional language**.
-
-You can **replace your current README entirely** with this.
-
----
-
 # 🌌 Ultra-Realistic Gesture-Controlled Solar System
 
 ### **A Human–Computer Interaction (HCI) exploration of touchless spatial navigation**
@@ -195,35 +186,4 @@ It is suitable for:
 * VR / WebXR embodiment
 * Adaptive gesture learning
 
----
 
-## 📌 Positioning Statement (Use This Everywhere)
-
-> **This project explores gesture-based human–computer interaction for spatial systems, using a real-time solar system simulation as the experimental environment.**
-
-If someone calls it *“just Three.js”* —
-they haven’t understood it.
-
----
-
-## ⭐ If You’re Reviewing This
-
-Please evaluate it as:
-
-* An **interaction system**
-* A **perception-to-intent pipeline**
-* A **touchless interface experiment**
-
-Not as a graphics demo.
-
----
-
-If you want, next I can:
-
-* Rewrite this as a **conference abstract**
-* Turn it into a **professor-ready justification**
-* Add a **“Research Motivation” diagram**
-* Help you defend this in a **viva / review panel**
-* Identify **what variable makes this inventional**
-
-Just tell me what’s next.
